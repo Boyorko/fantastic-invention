@@ -1,0 +1,565 @@
+[01:46:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:46:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:46:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:46:36] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:46:36] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_472, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:46:38] [main/INFO] [FML]: Searching /workspaces/fantastic-invention/servidor_minecraft/./mods for mods
+[01:46:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.1.jar
+[01:46:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:46:38] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:46:38] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[01:46:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:46:38] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[01:46:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from hermitsarsenal-V1.jar
+[01:46:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from nocubesrptweaks-V5.1.jar
+[01:46:38] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[01:46:38] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[01:46:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.1.jar
+[01:46:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:46:38] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[01:46:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.10_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:46:38] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:46:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.39.12_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:46:38] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[01:46:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:46:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:46:38] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/fantastic-invention/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.10.1.jar Service=LaunchWrapper Env=SERVER
+[01:46:38] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[01:46:38] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[01:46:38] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[01:46:38] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:46:38] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:46:38] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[01:46:38] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[01:46:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:46:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:46:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:46:38] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[01:46:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[01:46:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[01:46:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:46:40] [main/ERROR] [mixin]: Mixin config mixins.hermitsarsenal.json does not specify "minVersion" property
+[01:46:40] [main/ERROR] [mixin]: Mixin config mixins.nocubesrptweaks.base.json does not specify "minVersion" property
+[01:46:40] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5432050b
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:46:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:46:40] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:46:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:46:40] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[01:46:40] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:46:40] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[01:46:40] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[01:46:40] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[01:46:40] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:46:40] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[01:46:41] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[01:46:41] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:46:41] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:46:41] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:46:41] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[01:46:41] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:46:41] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:46:41] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:46:43] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[01:46:43] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[01:46:44] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[01:46:44] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[01:46:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:46:44] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:46:44] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:46:45] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:46:45] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:46:45] [Server thread/INFO] [FML]: Searching /workspaces/fantastic-invention/servidor_minecraft/./mods for mods
+[01:46:45] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10.1
+[01:46:46] [Server thread/WARN] [FML]: Mod gokistats is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.10
+[01:46:46] [Server thread/WARN] [FML]: Mod hermitsarsenal is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version V1
+[01:46:46] [Server thread/WARN] [FML]: Mod nocubesrptweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version V5.1
+[01:46:47] [Server thread/WARN] [FML]: Mod swparasites is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v4
+[01:46:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 35 mods to load
+[01:46:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:46:47] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[01:46:47] [Server thread/ERROR] [mixin]: Mixin config mixins.hermitsarsenal.late.json does not specify "minVersion" property
+[01:46:47] [Server thread/ERROR] [mixin]: Mixin config mixins.nocubesrptweaks.mods.json does not specify "minVersion" property
+[01:46:47] [Server thread/WARN] [mixin]: Error loading class: com/existingeevee/nocubesrptweaks/entities/EntityWormToothKnifeReplacement$Renderer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@41477a6d from coremod FMLCorePlugin)
+[01:46:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, obfuscate, techguns_core, securitycraft, corpse, craft_gunpowder_11, extrautils2, forgelin, futuremc, gokistats, cgm, hermitsarsenal, waila, jei, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, nocubesrptweaks, overlast, spartanshields, spartanweaponry, srparasites, srpmeshi, swparasites, techguns, travelersbackpack, vehicle, xaerominimap, xaeroworldmap, jade] at CLIENT
+[01:46:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, obfuscate, techguns_core, securitycraft, corpse, craft_gunpowder_11, extrautils2, forgelin, futuremc, gokistats, cgm, hermitsarsenal, waila, jei, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, nocubesrptweaks, overlast, spartanshields, spartanweaponry, srparasites, srpmeshi, swparasites, techguns, travelersbackpack, vehicle, xaerominimap, xaeroworldmap, jade] at SERVER
+[01:46:48] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[01:46:48] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[01:46:49] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[01:46:50] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:46:50] [Server thread/INFO] [FML]: Found 1576 ObjectHolder annotations
+[01:46:50] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:46:50] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:46:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:46:50] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Starting version check at https://infinitystudio.github.io/Updates/gokistats.json
+[01:46:50] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[01:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Found status: AHEAD Target: null
+[01:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[01:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[01:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[01:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[01:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[01:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:53] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[01:46:53] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[01:46:53] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:46:53] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[01:46:53] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Found status: UP_TO_DATE Target: null
+[01:46:53] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[01:46:53] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[01:46:53] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[01:46:53] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[01:46:53] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[01:46:54] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[01:46:54] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[01:46:54] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[01:46:54] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[01:46:54] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[01:46:54] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[01:46:55] [Server thread/INFO] [FML]: Applying holder lookups
+[01:46:55] [Server thread/INFO] [FML]: Holder lookups applied
+[01:46:55] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brs net.minecraft.client.model.ModelRenderer
+[01:46:55] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[01:46:55] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[01:46:55] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[01:46:55] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `coth`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `fear`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `antimall`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `bleed`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `corrosive`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `viral`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `rage`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `repel`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `senses`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `prey`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `debar`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `needler`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `foster`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `link`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `pivot`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `coth`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `fear`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `res`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `corro`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `vira`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `rage`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `repel`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `senses`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `debar`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `foster`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `link`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `srparasites` for name `pivot`, expected `srpmeshi`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:55] [Server thread/INFO] [srpmeshi]: All items have been registered.
+[01:46:55] [Server thread/INFO] [FML]: Applying holder lookups
+[01:46:55] [Server thread/INFO] [FML]: Holder lookups applied
+[01:46:55] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[01:46:56] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[01:46:56] [Server thread/INFO] [FML]: Applying holder lookups
+[01:46:56] [Server thread/INFO] [FML]: Holder lookups applied
+[01:46:56] [Server thread/INFO] [FML]: Applying holder lookups
+[01:46:56] [Server thread/INFO] [FML]: Holder lookups applied
+[01:46:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:46:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:46:56] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:46:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:46:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:46:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:46:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$getIngredient$0(CraftingHelper.java:152) ~[CraftingHelper.class:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:150) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fule_eight
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fuel_two
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fuel_sixteen
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_fuel_four
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_capsule_empty
+com.google.gson.JsonSyntaxException: Unknown item 'nocubessrparmory:capsuleempty'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_472]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[01:46:56] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[01:46:56] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[01:46:56] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[01:46:56] [Server thread/INFO] [FML]: Applying holder lookups
+[01:46:56] [Server thread/INFO] [FML]: Holder lookups applied
+[01:46:57] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[01:46:57] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[01:46:57] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[01:46:57] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:46:57] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:46:57] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:46:57] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:46:57] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
+[01:46:57] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[01:46:57] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:46:57] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:46:57] [Server thread/INFO] [Waila]: Starting Waila...
+[01:46:57] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:46:57] [Server thread/ERROR] [Waila]: Error discovering plugin for class snownee.jade.JadeClientPlugin: snownee.jade.JadeClientPlugin
+[01:46:57] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:46:57] [Server thread/INFO] [Waila]: Registering plugins...
+[01:46:57] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:46:57] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:46:57] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:46:57] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
+[01:46:57] [Server thread/INFO] [Waila]: Registering plugin at snownee.jade.JadePlugin
+[01:46:57] [Server thread/INFO] [Waila]: Starting Waila took 48.39 ms
+[01:46:57] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 35 mods
+[01:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:46:58] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:46:58] [Server thread/INFO] [FML]: Applying holder lookups
+[01:46:58] [Server thread/INFO] [FML]: Holder lookups applied
+[01:46:58] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5949c137)
+[01:46:58] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
+[01:46:58] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 580 advancements
+[01:46:58] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5949c137)
+[01:46:58] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5949c137)
+[01:46:58] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@5949c137)
+[01:46:58] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@5949c137)
+[01:46:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:46:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[01:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.527s)! For help, type "help" or "?"
+[01:47:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:47:00] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:47:00] [Server thread/INFO] [FML]: Unloading dimension -11325
+[01:47:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:47:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:47:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:47:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:47:40] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:47:40] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:47:40] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [xaeroworldmap_core, xaeroworldmap] at CLIENT
+[01:47:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: davivienda lost connection: Disconnected
+[01:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda left the game
+[01:47:46] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[01:47:46] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,xaeroworldmap@1.39.12,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:47:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:47:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: the_yenix[/127.167.9.238:49061] logged in with entity id 380 at (37.92350180207446, 87.0, 197.17607545545044)
+[01:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix joined the game
+[01:47:49] [Server thread/INFO] [Waila]: Player EntityPlayerMP['the_yenix'/380, l='world', x=37.92, y=87.00, z=197.18] connected. Sending ping
+[01:47:50] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[01:47:50] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:47:50] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [xaeroworldmap_core, xaeroworldmap] at CLIENT
+[01:47:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: davivienda lost connection: Disconnected
+[01:47:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda left the game
+[01:48:02] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:48:02] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:48:02] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [xaeroworldmap_core, xaeroworldmap] at CLIENT
+[01:48:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: davivienda lost connection: Disconnected
+[01:48:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda left the game
+[01:48:11] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:48:11] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:48:11] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [xaeroworldmap_core, xaeroworldmap] at CLIENT
+[01:48:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: davivienda lost connection: Disconnected
+[01:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda left the game
+[01:48:31] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:48:31] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:48:31] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [xaeroworldmap_core, xaeroworldmap] at CLIENT
+[01:48:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: davivienda lost connection: Disconnected
+[01:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda left the game
+[01:48:53] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:48:53] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:48:53] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [xaeroworldmap_core, xaeroworldmap] at CLIENT
+[01:48:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: davivienda lost connection: Disconnected
+[01:48:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda left the game
+[01:48:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [the_yenix: Set the time to 1000]
+[01:49:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: the_yenix lost connection: Disconnected
+[01:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix left the game
+[01:51:30] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[01:51:30] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,xaeroworldmap@1.39.12,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:51:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:51:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: the_yenix[/127.167.9.238:39503] logged in with entity id 25932 at (35.944363986805, 86.0, 191.81878346989234)
+[01:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix joined the game
+[01:51:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['the_yenix'/25932, l='world', x=35.94, y=86.00, z=191.82] connected. Sending ping
+[01:54:04] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:54:04] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,xaeroworldmap@1.39.12,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[01:54:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:54:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: davivienda[/127.205.88.212:33449] logged in with entity id 70481 at (35.5, 70.0, 220.5)
+[01:54:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: davivienda joined the game
+[01:54:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['davivienda'/70481, l='world', x=35.50, y=70.00, z=220.50] connected. Sending ping
+[01:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [the_yenix: Teleported the_yenix to davivienda]
+[01:54:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [the_yenix: Opped davivienda]
+[01:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [the_yenix: Set own game mode to Survival Mode]
+[01:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [the_yenix: Set the time to 1000]
+[02:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix has made the advancement [Stone Age]
+[02:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix has made the advancement [Getting an Upgrade]
+[02:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix has made the advancement [Acquire Hardware]
+[02:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix has made the advancement [Sweet dreams]
+[02:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: the_yenix has made the advancement [Monster Hunter]
+[02:14:55] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:14:55] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,xaeroworldmap@1.39.12,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[02:15:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:15:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Orly_Bacabanano[/127.7.84.15:54977] logged in with entity id 438317 at (37.5, 76.0, 219.5)
+[02:15:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Orly_Bacabanano joined the game
+[02:15:00] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Orly_Bacabanano'/438317, l='world', x=37.50, y=76.00, z=219.50] connected. Sending ping
+[02:15:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Orly_Bacabanano lost connection: Timed out
+[02:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Orly_Bacabanano left the game
+[02:15:37] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[02:15:37] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,nocubesrptweaks@V5.1,gokistats@1.2.10,cgm@0.15.3,jade@0.1.0,craft_gunpowder_11@1.1.0,jei@4.16.1.1013,vehicle@0.44.1,futuremc@0.2.6,extrautils2@1.0,techguns_core@1.12.2-1.0,spartanshields@1.5.5,xaerominimap@25.2.10,mcp@9.42,nocubessrpnests@3.0.0,xaeroworldmap@1.39.12,securitycraft@v1.10.1,hermitsarsenal@V1,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,srparasites@1.9.21,spartanweaponry@1.6.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,srpmeshi@1.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,swparasites@v4,corpse@1.12.2-1.0.8,overlast@0.0.2,techguns@2.0.2.0
+[02:15:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:15:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Orly_Bacabanano[/127.7.84.15:58217] logged in with entity id 450780 at (37.5, 76.0, 219.5)
+[02:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Orly_Bacabanano joined the game
+[02:15:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Orly_Bacabanano'/450780, l='world', x=37.50, y=76.00, z=219.50] connected. Sending ping
+[02:15:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [the_yenix: Teleported Orly_Bacabanano to the_yenix]
+[02:15:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Orly_Bacabanano> DOJODA ES DE NOCHE
